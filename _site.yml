@@ -1,18 +1,18 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Lily"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Lily"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Home"
+    - text: "Introduction to the Data"
       icon: fa-home
-      href: index.html
-    - text: "About"
+      href: IntroToData.html
+    - text: "Data Wrangling"
       icon: fa-user 
-      href: about.html
-    - text: "CV"
+      href: dplyr.html
+    - text: "Data Visualisation"
       icon: fa-file-pdf-o
-      href: cv.html
+      href: DataVisual.html
     - text: "Blog"
       icon: fa-rss
       href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
